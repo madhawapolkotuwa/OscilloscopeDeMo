@@ -6,6 +6,6 @@ It can be used to visualize A/D Data or Serial Data and provides the ability to 
 
 ## Demo Video
 
-[![Watch the demo video](https://img.youtube.com/vi/CT4W4qnLmdI/CT4W4qnLmdI?t=32)](https://www.youtube.com/watch?v=CT4W4qnLmdI)
+[![Watch the demo video](https://img.youtube.com/vi/CT4W4qnLmdI/maxresdefault.jpg)](https://www.youtube.com/watch?v=CT4W4qnLmdI)
 
 
